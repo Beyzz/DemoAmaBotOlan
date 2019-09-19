@@ -1,1 +1,2 @@
-# DemoAmaBotOlan
+# DemoBot
+Demo Discord Bot.

@@ -1,0 +1,28 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "description": "Demo Discord Bot.",
+  "main": "demobot.js",
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "async-limiter": "^1.0.1",
+    "chalk": "^2.4.2",
+    "color-convert": "^1.9.3",
+    "color-name": "^1.1.3",
+    "discord.js": "^11.5.1",
+    "escape-string-regexp": "^1.0.5",
+    "has-flag": "^3.0.0",
+    "long": "^4.0.0",
+    "prism-media": "^0.0.3",
+    "snekfetch": "^3.6.4",
+    "supports-color": "^5.5.0",
+    "tweetnacl": "^1.0.1",
+    "ws": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node demobot.js"
+  },
+  "author": "Eymen Sevil",
+  "license": "ISC"
+}
