@@ -16,7 +16,7 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content.toLowerCase() === 'sa') {
+  if (msg.content.toLowerCase() === '<@566903440891183124>') {
     msg.channel.sendMessage('Ve Aleyküm Selam " msg.author.username ". Nasılsın, iyi misin? Umarım iyisindir.');
   }
 });
